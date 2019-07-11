@@ -77,7 +77,9 @@
 ## 是不是很厉害,这样你就可以在不知道别人密码的情况下干掉对方网络,但是切记开玩笑可以但是不要用到非法用途上
 
 ## 作者
-#### 作者: 孟庆岳
-#### 官网: 百度搜索([shmily科技](http://weareshmily.top/ "shmily科技"))
+#### 作者: weshmily科技站长
+#### 官网: 百度搜索([weshmily科技](http://weareshmily.top/ "weshmily科技"))
 #### CSDN博客:http://blog.csdn.net/qq_27118895
-#### github:https://github.com/1294083463/
+#### github:https://github.com/weshmily
+#### 公众号:搜索"weshmilyqd"
+#### [segmentFault博客(全部文章)](https://segmentfault.com/u/weshmilyqd)
